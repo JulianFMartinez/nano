@@ -7,7 +7,8 @@
 
 `.nanorc` es el archivo de configuración de nano.
 
-- Instrucciones indicadas por el profesor Adolfo Antón Bravo
+- Instrucciones indicadas por el profesor [Adolfo Antón Bravo](https://www.infotics.es/) 
+
   - El directorio o carpeta `/etc` (importante la barra del inicio pues indica la raíz del sistema de directorios) 
   - Es donde se encuentran muchos de los archivos de configuración de las aplicaciones que se manejan en sistemas Unix/Linux
   - Lo que hicimos fue copiar con `cp` ese archivo en nuestro espacio de usuarix con el nombre `.nanorc` para configurarlo a nuestro  gusto
