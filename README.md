@@ -1,6 +1,5 @@
 ### Fundamentos Tecnológicos
 ##### 9 de enero de 2023
-
 # Nano
 **Nano** es un editor de texto en la linea de comandos (la terminal) al que se le puede dar un formato Markdown `md`.
 
